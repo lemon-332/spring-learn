@@ -1,4 +1,4 @@
-package com.hjj.openAndClose;
+package com.designPrinciple.openAndClose;
 
 public class DefaultSpecificSkin extends AbstractSkin {
     @Override

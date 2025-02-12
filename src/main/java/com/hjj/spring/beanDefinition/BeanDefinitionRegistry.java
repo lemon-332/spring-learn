@@ -1,4 +1,4 @@
-package com.hjj.spring.beanDefinition;
+package com.designPrinciple.spring.beanDefinition;
 
 public interface BeanDefinitionRegistry {
     void registerBeanDefinition(String beanName, AnnotateBeanDefinition beanDefinition);

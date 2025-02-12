@@ -1,9 +1,9 @@
-package com.hjj.test;
+package com.designPrinciple.test;
 
-import com.hjj.spring.applicationContext.AnnotationConfigApplicationContext;
-import com.hjj.test.bean.UserService;
-import com.hjj.test.bean.UserService1;
-import com.hjj.test.config.AppConfig;
+import com.designPrinciple.spring.applicationContext.AnnotationConfigApplicationContext;
+import com.designPrinciple.test.bean.UserService;
+import com.designPrinciple.test.bean.UserService1;
+import com.designPrinciple.test.config.AppConfig;
 
 public class SpringTest {
     public static void main(String[] args) {

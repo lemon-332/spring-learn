@@ -1,8 +1,8 @@
-package com.hjj.spring.applicationContext;
+package com.designPrinciple.spring.applicationContext;
 
-import com.hjj.spring.beanDefinition.AnnotateBeanDefinition;
-import com.hjj.spring.beanDefinition.BeanDefinitionRegistry;
-import com.hjj.spring.beanFactory.DefaultListableBeanFactory;
+import com.designPrinciple.spring.beanDefinition.AnnotateBeanDefinition;
+import com.designPrinciple.spring.beanDefinition.BeanDefinitionRegistry;
+import com.designPrinciple.spring.beanFactory.DefaultListableBeanFactory;
 
 public class GenericApplicationContext implements BeanDefinitionRegistry {
 

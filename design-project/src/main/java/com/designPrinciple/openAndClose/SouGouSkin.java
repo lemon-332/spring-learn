@@ -1,4 +1,4 @@
-package com.hjj.openAndClose;
+package com.designPrinciple.openAndClose;
 
 public class SouGouSkin {
     private AbstractSkin skin;

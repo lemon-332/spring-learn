@@ -1,4 +1,4 @@
-package com.hjj.openAndClose;
+package com.designPrinciple.openAndClose;
 
 public abstract class AbstractSkin {
     public abstract void display();

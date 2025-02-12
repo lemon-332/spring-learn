@@ -1,7 +1,7 @@
-package com.hjj.spring.applicationContext;
+package com.designPrinciple.spring.applicationContext;
 
-import com.hjj.spring.beanDefinition.AnnotateBeanDefinitionReader;
-import com.hjj.spring.beanDefinition.BeanDefinitionRegistry;
+import com.designPrinciple.spring.beanDefinition.AnnotateBeanDefinitionReader;
+import com.designPrinciple.spring.beanDefinition.BeanDefinitionRegistry;
 
 public class AnnotationConfigApplicationContext
         extends GenericApplicationContext

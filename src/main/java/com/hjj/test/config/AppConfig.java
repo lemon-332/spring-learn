@@ -1,6 +1,6 @@
-package com.hjj.test.config;
+package com.designPrinciple.test.config;
 
-import com.hjj.spring.annotation.ComponentScan;
+import com.designPrinciple.spring.annotation.ComponentScan;
 
 @ComponentScan("com.hjj.test.bean")
 public class AppConfig {

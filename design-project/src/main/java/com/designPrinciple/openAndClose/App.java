@@ -1,4 +1,4 @@
-package com.hjj.openAndClose;
+package com.designPrinciple.openAndClose;
 
 public class App {
     public static void main(String[] args) {

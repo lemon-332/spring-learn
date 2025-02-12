@@ -1,4 +1,4 @@
-package com.hjj.Liskov;
+package com.designPrinciple.Liskov;
 
 public interface Quadrilateral {
     double getLength();

@@ -1,6 +1,6 @@
-package com.hjj.spring.beanDefinition;
+package com.designPrinciple.spring.beanDefinition;
 
-import com.hjj.spring.annotation.Scope;
+import com.designPrinciple.spring.annotation.Scope;
 
 public class AnnotateBeanDefinitionReader {
     private BeanDefinitionRegistry registry;

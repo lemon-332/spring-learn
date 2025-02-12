@@ -1,7 +1,7 @@
-package com.hjj.test.bean;
+package com.designPrinciple.test.bean;
 
-import com.hjj.spring.annotation.Scope;
-import com.hjj.spring.annotation.Service;
+import com.designPrinciple.spring.annotation.Scope;
+import com.designPrinciple.spring.annotation.Service;
 
 @Service
 @Scope("prototype")

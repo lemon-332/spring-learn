@@ -1,4 +1,4 @@
-package com.hjj.Liskov;
+package com.designPrinciple.Liskov;
 
 public class App {
     public static void resize(Rectangle rectangle) {

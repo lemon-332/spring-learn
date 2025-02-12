@@ -1,4 +1,4 @@
-package com.hjj.Liskov;
+package com.designPrinciple.Liskov;
 
 public class Rectangle implements Quadrilateral{
     private double length;

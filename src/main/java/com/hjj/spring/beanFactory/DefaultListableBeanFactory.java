@@ -1,11 +1,11 @@
-package com.hjj.spring.beanFactory;
+package com.designPrinciple.spring.beanFactory;
 
-import com.hjj.spring.annotation.ComponentScan;
-import com.hjj.spring.annotation.Scope;
-import com.hjj.spring.annotation.Service;
-import com.hjj.spring.beanDefinition.AnnotateBeanDefinition;
-import com.hjj.spring.beanDefinition.AnnotateGenericBeanDefinition;
-import com.hjj.spring.beanDefinition.BeanDefinitionRegistry;
+import com.designPrinciple.spring.annotation.ComponentScan;
+import com.designPrinciple.spring.annotation.Scope;
+import com.designPrinciple.spring.annotation.Service;
+import com.designPrinciple.spring.beanDefinition.AnnotateBeanDefinition;
+import com.designPrinciple.spring.beanDefinition.AnnotateGenericBeanDefinition;
+import com.designPrinciple.spring.beanDefinition.BeanDefinitionRegistry;
 
 import java.io.File;
 import java.lang.reflect.InvocationTargetException;
