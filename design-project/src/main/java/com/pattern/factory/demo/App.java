@@ -1,4 +1,4 @@
-package com.pattern.factory.demo1;
+package com.pattern.factory.demo;
 
 public class App {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.pattern.factory.demo1;
+package com.pattern.factory.demo;
 
 public class AmeCoffee extends Coffee {
     @Override
